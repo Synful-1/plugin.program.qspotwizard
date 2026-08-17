@@ -11,7 +11,7 @@ import xbmcvfs
 ADDON = xbmcaddon.Addon()
 
 # CHANGE THIS TO YOUR DROPBOX DIRECT LINK
-DROPBOX_URL = "https://www.dropbox.com/scl/fi/ocificu13iqk6gef8k6ue/Build1.zip?rlkey=wn0oioxxqdgadhv5hikwuvxg0&st=if2907rh&dl=1"
+DROPBOX_URL = "https://www.dropbox.com/scl/fi/nqcuqito1sgz8ix84eb3u/Kodi-Build-v1.rar?rlkey=4smlatdc1djmy4z5k66hzgvs6&st=mmmtq2iq&dl=1"
 
 dialog = xbmcgui.Dialog()
 
